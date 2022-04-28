@@ -1,0 +1,8 @@
+package androidx.slice.view;
+
+import com.android.p012wm.shell.C1777R;
+
+public final class R$styleable {
+    public static final int[] RowStyle = {C1777R.attr.actionDividerHeight, C1777R.attr.bottomDividerEndPadding, C1777R.attr.bottomDividerStartPadding, C1777R.attr.contentEndPadding, C1777R.attr.contentStartPadding, C1777R.attr.disableRecyclerViewItemAnimator, C1777R.attr.endItemEndPadding, C1777R.attr.endItemStartPadding, C1777R.attr.iconSize, C1777R.attr.imageSize, C1777R.attr.progressBarEndPadding, C1777R.attr.progressBarInlineWidth, C1777R.attr.progressBarStartPadding, C1777R.attr.seekBarInlineWidth, C1777R.attr.subContentEndPadding, C1777R.attr.subContentStartPadding, C1777R.attr.subtitleColor, C1777R.attr.textActionPadding, C1777R.attr.tintColor, C1777R.attr.titleColor, C1777R.attr.titleEndPadding, C1777R.attr.titleItemEndPadding, C1777R.attr.titleItemStartPadding, C1777R.attr.titleStartPadding};
+    public static final int[] SliceView = {C1777R.attr.expandToAvailableHeight, C1777R.attr.gridBottomPadding, C1777R.attr.gridSubtitleSize, C1777R.attr.gridTextVerticalPadding, C1777R.attr.gridTitleSize, C1777R.attr.gridTopPadding, C1777R.attr.headerSubtitleSize, C1777R.attr.headerTextVerticalPadding, C1777R.attr.headerTitleSize, C1777R.attr.hideHeaderRow, C1777R.attr.imageCornerRadius, C1777R.attr.rowInlineRangeHeight, C1777R.attr.rowMaxHeight, C1777R.attr.rowMinHeight, C1777R.attr.rowRangeHeight, C1777R.attr.rowRangeSingleTextHeight, C1777R.attr.rowStyle, C1777R.attr.subtitleColor, C1777R.attr.subtitleSize, C1777R.attr.textVerticalPadding, C1777R.attr.tintColor, C1777R.attr.titleColor, C1777R.attr.titleSize};
+}
